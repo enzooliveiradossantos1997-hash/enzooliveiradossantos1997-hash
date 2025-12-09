@@ -1,4 +1,4 @@
-<img src="" width="100%" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Agritech-Global%20Innovation-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/Software%20Engineering-Data%20Applied-darkblue?style=for-the-badge">
