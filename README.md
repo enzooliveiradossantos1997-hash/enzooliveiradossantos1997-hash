@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b8f0c46f-e912-42ca-8f99-7e3ac9d5bf51" width="100%" />
-
-
+<img src="" width="100%" />
 <p align="center">
   <img src="https://img.shields.io/badge/Agritech-Global%20Innovation-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/Software%20Engineering-Data%20Applied-darkblue?style=for-the-badge">
